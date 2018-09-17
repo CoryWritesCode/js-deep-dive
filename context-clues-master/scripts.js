@@ -50,7 +50,7 @@ $(document).ready(function () {
 
   ];
 
-  var who = ` I accuse `;
+  var who = `: I accuse `;
   var what = `with the `;
   var where = `in the `;
 
